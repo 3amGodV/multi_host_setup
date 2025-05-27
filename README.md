@@ -1,0 +1,2 @@
+# multi_host_setup
+批量检查repo源和配置主机ssh证书登陆
